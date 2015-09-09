@@ -624,6 +624,7 @@
     <Content Include="templates\main\_header.html" />
     <Content Include="templates\main\_share_js.html" />
     <Content Include="templates\main\_ucenter_nav.html" />
+    <Content Include="test.html" />
     <Content Include="watermark.png" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
