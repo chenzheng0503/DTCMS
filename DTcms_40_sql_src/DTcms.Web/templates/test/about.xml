@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<about>
+<template name="测试模板"
+  author="陈政"
+  createdate = "2015-9-7"
+  version="4.0"
+  fordntver="V4.0版本" />
+</about>
